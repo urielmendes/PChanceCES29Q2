@@ -1,0 +1,5 @@
+units/BancoIT.class
+runners/ContaOperacoes.class
+units/ContaTest.class
+steps/ContaOperacoesStepsTest.class
+units/BancoTest.class
